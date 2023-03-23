@@ -1,0 +1,27 @@
+_repo: Furniture-upholstery-for-schools_70339
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Emil A. Johnson, B.S., A.M
+    gutenberg_agent_id: '55714'
+    url: http://www.gutenberg.org/2009/agents/55714
+description: ''
+gutenberg_issued: '2023-03-21'
+identifiers:
+  gutenberg: '70339'
+language: en
+pgterms:marc904: https://archive.org/details/furnitureuphols00john/page/n5/mode/2up
+pgterms:marc905: 20201101141338johnsonbsa
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Manual Arts Press, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Furniture upholstery for schools
+url: http://www.gutenberg.org/ebooks/70339
